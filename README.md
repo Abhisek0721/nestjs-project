@@ -91,5 +91,5 @@ delete user's avatar.
 
 ## Contact Information
 
-Name: Abhisekh Upadhaya
-Email: Abhisek0721@gmail.com
+`Name: Abhisekh Upadhaya`
+`Email: Abhisek0721@gmail.com`
